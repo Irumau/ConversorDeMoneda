@@ -17,7 +17,6 @@ import javax.swing.JButton;
 import java.awt.event.ActionListener;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.text.NumberFormat;
 import java.util.Scanner;
 import java.awt.event.ActionEvent;
 import javax.swing.JTextField;
@@ -34,6 +33,7 @@ public class Ventaana extends JFrame {
 	/**
 	 * Create the frame.
 	 */
+	@SuppressWarnings("unchecked")
 	public Ventaana() {
 		setIconImage(Toolkit.getDefaultToolkit().getImage(Ventaana.class.getResource("/com/images/ImagenMoneda.png")));
 		setResizable(false);

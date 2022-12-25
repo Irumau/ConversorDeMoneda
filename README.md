@@ -22,7 +22,18 @@
  #### Para realizar el conversor de divisas se consumio la API <a href="https://currency.getgeoapi.com">Currency API </a>. Esta API proporciona un total de 100 pedidos,llamados o request a la API.
 ---
 ![Funcionalidad Conversor)](https://user-images.githubusercontent.com/104738144/209484393-f9203328-b29b-43b3-b363-47ba6717427c.gif)
+
 &nbsp;
+
+## Manejo de Errores
+
+  **Si el usuario no realiza ninguna moneda para realizar la conversion se le mostrara un mensaje indicandole que selecciones las monedas a convertir**
+![ErrorSelecionaMoneda](https://user-images.githubusercontent.com/104738144/209484499-eeae9bc3-186b-4615-bd17-ad2885972ab2.png)
+---
+
+
+&nbsp;
+
 
 ## Tecnologías implementadas
 ![JAVA](https://img.shields.io/badge/-Java-orange)

@@ -39,3 +39,8 @@
 
 ## Tecnologías implementadas
 ![JAVA](https://img.shields.io/badge/-Java-orange)
+
+## Autor
+[<img src="https://avatars.githubusercontent.com/u/104738144?v=4">]<br>*Mauricio Vera*
+
+

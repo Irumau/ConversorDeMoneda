@@ -27,15 +27,23 @@
 
 ## Manejo de Errores
 
-  Si el usuario no realiza ninguna moneda para realizar la conversion se le mostrara un mensaje indicandole que selecciones las monedas a convertir
+  Si el usuario no selecciona ninguna moneda para realizar la conversion se le mostrara un mensaje en pantalla indicandole que selecciones las monedas a    convertir.
   
   &nbsp;
   
   ![ErrorSelecionaMoneda](https://user-images.githubusercontent.com/104738144/209484499-eeae9bc3-186b-4615-bd17-ad2885972ab2.png)
   
+  &nbsp;
+  
+  Si el usuario no llega a colocar ningun importe tambien se le indicara a través de un mensaje en pantalla que coloque un importe a convertir.
+  
+  &nbsp;
+  
+  ![ErrorNoIngresoImporte](https://user-images.githubusercontent.com/104738144/209484565-3f4e5e5f-5e9c-446c-a8f6-a4ec64723e41.png)
+  
 
 
-&nbsp;
+  &nbsp;
 
 
 ## Tecnologías implementadas

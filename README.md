@@ -19,6 +19,6 @@
   El proyecto consiste en realizar una aplicación de escritorio la cual tenga la funcionalidad de conversion de divisas.
   La interfaz grafica se basa en la biblioteca Swing y se construyo con el plugin WindowBuilder en Eclipse.
   
-  Para realizar el conversor de divisas se consumio la API <a href="https://currency.getgeoapi.com">Currency API </a>. Esta API proporciona un total de 100 pedidos,llamados o request a la API.
+ #### Para realizar el conversor de divisas se consumio la API <a href="https://currency.getgeoapi.com">Currency API </a>. Esta API proporciona un total de 100 pedidos,llamados o request a la API.
 ---
   

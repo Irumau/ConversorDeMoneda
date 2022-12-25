@@ -41,6 +41,6 @@
 ![JAVA](https://img.shields.io/badge/-Java-orange)
 
 ## Autor
-[<img src="https://avatars.githubusercontent.com/u/104738144?v=4">]<br>*Mauricio Vera*
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)<img src="https://avatars.githubusercontent.com/u/104738144?v=4" width="115px"><br>*Irumau*
 
 

@@ -27,9 +27,12 @@
 
 ## Manejo de Errores
 
-  **Si el usuario no realiza ninguna moneda para realizar la conversion se le mostrara un mensaje indicandole que selecciones las monedas a convertir**
-![ErrorSelecionaMoneda](https://user-images.githubusercontent.com/104738144/209484499-eeae9bc3-186b-4615-bd17-ad2885972ab2.png)
----
+  Si el usuario no realiza ninguna moneda para realizar la conversion se le mostrara un mensaje indicandole que selecciones las monedas a convertir
+  
+  &nbsp;
+  
+  ![ErrorSelecionaMoneda](https://user-images.githubusercontent.com/104738144/209484499-eeae9bc3-186b-4615-bd17-ad2885972ab2.png)
+  
 
 
 &nbsp;

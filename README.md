@@ -24,5 +24,5 @@
 ![Funcionalidad Conversor)](https://user-images.githubusercontent.com/104738144/209484393-f9203328-b29b-43b3-b363-47ba6717427c.gif)
 &nbsp;
 
-##Tecnologías implementadas.
+## Tecnologías implementadas
 ![JAVA](https://img.shields.io/badge/-Java-orange)

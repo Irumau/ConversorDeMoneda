@@ -21,4 +21,6 @@
   
  #### Para realizar el conversor de divisas se consumio la API <a href="https://currency.getgeoapi.com">Currency API </a>. Esta API proporciona un total de 100 pedidos,llamados o request a la API.
 ---
-  
+![Funcionalidad Conversor)](https://user-images.githubusercontent.com/104738144/209484393-f9203328-b29b-43b3-b363-47ba6717427c.gif)
+&nbsp;
+

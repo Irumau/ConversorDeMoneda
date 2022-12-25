@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/status-liberado-green">
+ <img src="https://img.shields.io/badge/status-liberado-green"> <img src="https://img.shields.io/badge/version-V2.0-green">
 </p>
 <h1> Conversor De Moneda | Challenge ONE G3 | Java- Sprint 01</h1>
 <hr>

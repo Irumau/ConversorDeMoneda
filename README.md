@@ -41,6 +41,7 @@
 ![JAVA](https://img.shields.io/badge/-Java-orange)
 
 ## Autor
-[<img src="https://avatars.githubusercontent.com/u/104738144?v=4" width="115px"><br>*Irumau*](https://github.com/Irumau)
+[<img src="https://avatars.githubusercontent.com/u/104738144?v=4" width="115px"><br>*Irumau*](https://github.com/Irumau)|
+ :---: |
 
 
